@@ -20,9 +20,18 @@ format: html
 
 <div>
 
-# ✅ Hello, I’m Gen Li (updated 2025.07.24)
+## 👋 Hello, I’m Gen Li
 
-Welcome to my academic homepage! This page was successfully re-rendered from index.qmd.
+I am a PhD researcher in [Aalto University](https://www.aalto.fi) focusing on **lignin valorisation**, **Ni-based catalysis**, and **computational modeling**.  
+My research integrates *experiments* and *simulations* to unlock the potential of biomass-derived chemicals.
+
+---
+
+### 🔥 News
+
+- **2025.07** One paper submitted to *Applied Catalysis B* 🧪  
+- **2025.06** Presented lignin solvolysis results at *EHLCATHOL Workshop* in Turku 🇫🇮  
+- **2025.05** Designed a room-temperature lignin solvent system 🌱  
 
 </div>
 
