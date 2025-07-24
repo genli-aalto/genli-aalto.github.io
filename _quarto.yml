@@ -1,0 +1,26 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gen Li"
+  page-navigation: true
+  site-url: https://genli-aalto.github.io
+  navbar:
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "Publications"
+        file: publications.qmd
+      - text: "Contact"
+        file: contact.qmd
+      - text: "中文"
+        file: index_zh.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-location: right

@@ -1,0 +1,29 @@
+
+---
+title: "Gen Li"
+format: html
+---
+
+::: {.container .d-flex}
+
+<div style="width: 220px; margin-right: 30px;">
+  <img src="images/avatar.jpg" style="border-radius: 10px; width: 100%;">
+  <br><br>
+  <strong>Gen Li</strong><br>
+  PhD Student, Aalto University  
+  <br><br>
+  [![](https://img.shields.io/badge/GitHub-genli--aalto-black?logo=github)](https://github.com/genli-aalto)  
+  [![](https://img.shields.io/badge/Email-gen.li@aalto.fi-red?logo=gmail)](mailto:gen.li@aalto.fi)  
+  [![](https://img.shields.io/badge/CV-PDF-blue?logo=readthedocs)](cv.pdf)  
+  [![](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](#)
+</div>
+
+<div>
+
+# ✅ Hello, I’m Gen Li (updated 2025.07.24)
+
+Welcome to my academic homepage! This page was successfully re-rendered from index.qmd.
+
+</div>
+
+:::
