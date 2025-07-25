@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+    line-height: 1.6;
+    font-size: 17px;
+    background-color: #fff;
+    color: #222;
+  }
+  
+  h1, h2, h3 {
+    font-weight: 700;
+    color: #333;
+  }
+  
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+  }
+  
+  .grid-cols-12 {
+    grid-template-columns: repeat(12, 1fr);
+  }
+  
+  .col-span-12 {
+    grid-column: span 12 / span 12;
+  }
+  
+  @media (min-width: 768px) {
+    .col-md-4 {
+      grid-column: span 4 / span 4;
+    }
+    .col-md-8 {
+      grid-column: span 8 / span 8;
+    }
+  }
+  

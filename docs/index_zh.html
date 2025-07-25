@@ -68,6 +68,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -119,7 +120,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#你好我是-gen-li" id="toc-你好我是-gen-li" class="nav-link active" data-scroll-target="#你好我是-gen-li">你好，我是 Gen Li</a></li>
+  <li><a href="#你好我是李根" id="toc-你好我是李根" class="nav-link active" data-scroll-target="#你好我是李根">你好，我是李根</a></li>
   </ul>
 </nav>
     </div>
@@ -129,9 +130,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="你好我是-gen-li" class="level1">
-<h1>你好，我是 Gen Li</h1>
-<p>我在奥卢大学从事木质素转化与催化研究。</p>
+<section id="你好我是李根" class="level1">
+<h1>你好，我是李根</h1>
+<p>等待更新~</p>
 
 
 </section>
@@ -229,7 +230,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/genli-aalto\.github\.io");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -1,38 +1,74 @@
-
 ---
-title: "Gen Li"
-format: html
----
-
-::: {.container .d-flex}
-
-<div style="width: 220px; margin-right: 30px;">
-  <img src="images/avatar.jpg" style="border-radius: 10px; width: 100%;">
-  <br><br>
-  <strong>Gen Li</strong><br>
-  PhD Student, Aalto University  
-  <br><br>
-  [![](https://img.shields.io/badge/GitHub-genli--aalto-black?logo=github)](https://github.com/genli-aalto)  
-  [![](https://img.shields.io/badge/Email-gen.li@aalto.fi-red?logo=gmail)](mailto:gen.li@aalto.fi)  
-  [![](https://img.shields.io/badge/CV-PDF-blue?logo=readthedocs)](cv.pdf)  
-  [![](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](#)
-</div>
-
-<div>
-
-## 👋 Hello, I’m Gen Li
-
-I am a PhD researcher in [Aalto University](https://www.aalto.fi) focusing on **lignin valorisation**, **Ni-based catalysis**, and **computational modeling**.  
-My research integrates *experiments* and *simulations* to unlock the potential of biomass-derived chemicals.
-
+title: "Greetings! 👋 Welcome to my homepage."
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
 ---
 
-### 🔥 News
+:::: {.columns}
 
-- **2025.07** One paper submitted to *Applied Catalysis B* 🧪  
-- **2025.06** Presented lignin solvolysis results at *EHLCATHOL Workshop* in Turku 🇫🇮  
-- **2025.05** Designed a room-temperature lignin solvent system 🌱  
+::: {.column width="30%"}
 
-</div>
+![](images/avatar.jpg){width=180px style="border-radius: 10px;"}
+
+### Gen Li  
+PhD Student  
+Aalto University, Finland  
+
+📍 Espoo, Finland  
+📧 [gen.li@aalto.fi](mailto:gen.li@aalto.fi)  
+🌐 [Aalto Homepage](https://www.aalto.fi)  
+
+[![](https://img.shields.io/badge/GitHub-genli--aalto-black?logo=github)](https://github.com/genli-aalto)  
+[![](https://img.shields.io/badge/CV-PDF-blue?logo=readthedocs)](cv.pdf)  
+[![](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](#)
 
 :::
+
+::: {.column width="70%"}
+
+## 🧑‍🔬 About me
+
+I am a PhD researcher in **Chemical Engineering** at [Aalto University](https://www.aalto.fi), Finland.  
+My research focuses on **biomass valorisation**, **Ni-based catalysis**, and **computational modeling**.
+
+I combine *experimental* and *theoretical* approaches to design efficient catalytic systems for lignin upgrading and sustainable chemical production.
+
+---
+
+## 🔬 Research Interests
+
+- Lignin solvolysis & hydrodeoxygenation (HDO)
+- Ni₂P and non-noble metal catalysis
+- DFT, AIMD, and enhanced sampling (metadynamics, OPES)
+- Molecular modeling of lignin dissolution
+- Renewable fuels and platform chemicals
+
+---
+
+## 🎓 Education
+
+- **Ph.D. in Chemical Engineering**  
+  *Aalto University, Finland* `10/2022 –` *(ongoing)*  
+  **Research**: Conversion and utilization of lignin – liquefaction and catalytic conversion processes
+
+- **M.Sc. in Chemical Engineering**  
+  *Xiamen University, China* `09/2018 – 06/2021`  
+  **Research**: Photogenerated carrier transfer rate of graphitic carbon nitride in photocatalytic hydrogen production from water splitting
+
+- **B.Sc. in Chemical Engineering and Technology**  
+  *Southwest Petroleum University, China* `09/2014 – 06/2018`  
+  **Research**: Preparation of electrospinning nanofiber membrane and study on its PM2.5 filtration performance
+
+
+
+## 🗞️ Recent News
+
+- **2025.07** – upgarding 
+
+
+:::
+
+::::

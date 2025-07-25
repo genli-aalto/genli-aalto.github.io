@@ -1,3 +1,77 @@
-# Publications
+---
+title: "📝 Publications"
+format:
+  html:
+    toc: true
+    number-sections: false
+---
 
-Coming soon.
+### 2025
+
+-  **Gen Li**, Yushuai Sang, Xiang Li, Hong Chen, Yongdan Li,  
+   *Solvolysis of enzymatic hydrolysis lignin in fuel compatible solvents*,  
+   _Chemical Engineering Science_, 310 (2025) 121549.
+
+-  **Gen Li**, Yushuai Sang, Xiang Li, Tiina Nypelö, Yongdan Li,  
+   *Mechanistic Elucidation of Guaiacol Hydrodeoxygenation over Ni₂P/SiO₂: Phenyl Species as Key Intermediates Revealed by Experiments and DFT calculations.*  
+   _(First author, manuscript in preparation)_
+
+-  R. Zhao, **G. Li**, Y. Li, E. Jang, J.W. Bae,  
+   *Ba-modified ordered mesoporous SBA-15 for selective dehydration of lactic acid to acrylic acid*,  
+   _Chemical Engineering Journal_, 504 (2025) 158753.
+
+-  D. Zhu, J. Du, Z. Peng, J. Wang, X. He, **G. Li**, L. Ye, H. Ling, M. Zhao, H. Lin, D. Ji, W. Hu,  
+   *Metal–Organic Frameworks Coordination-Oriented Polymer Dielectrics for Neuromorphic Vision Sensors*,  
+   _SmartMat_, 6 (2025) e1322.
+
+-  Tiantian Zhou, Feifan Zhang, Jiandong Gao, Kaiming Nie, **Gen Li**, Wanxin Huang, Ruiheng Wang, Guofeng Tian, Haifeng Ling, Hongzhen Lin, Yan Zhao, Hui Yang, Jiangtao Xu, Deyang Ji, Wenping Hu,  
+   *Hydrogen bonding networks for tunable organic neuromorphic transistor arrays and in-sensor computing*,  
+   _Matter_, 2025, 102192.
+
+---
+
+### 2024
+
+-  T. Han, Y. Xie, L. Li, Y. Wu, F. Yu, M. Wang, J. Zhang, **G. Li**, N. Yang,  
+   *Enhanced electrochemical performance of direct carbon solid oxide fuel cells by MgO-catalyzed carbon gasification: Experimental and DFT simulation studies*,  
+   _Ceramics International_, 50 (2024) 16435–16442. _(Corresponding author)_
+
+-  L. Li, Y. Xie, T. Han, J. Zhang, F. Yu, **G. Li**, J. Sunarso, N. Yang, Y. Li,  
+   *BaO-modified finger-like nickel-based anode for enhanced performance and durability of direct carbon solid oxide fuel cells*,  
+   _Fuel_, 368 (2024) 131656. _(Corresponding author)_
+
+-  Y. Sang, **G. Li**, X. Li, H. Gong, M. Yang, D. Savary, Z. Fei, P.J. Dyson, H. Chen, Y. Li,  
+   *A synergistic approach for lignin biofuel production: Integrating non-catalytic solvolysis with catalytic product upgrading*,  
+   _Chemical Engineering Journal_, 495 (2024) 153624.
+
+-  P. Yao, J. Zhang, Q. Qiu, **G. Li**, Y. Zhao, F. Yu, Y. Li,  
+   *Design of a perovskite oxide cathode for a protonic ceramic fuel cell*,  
+   _Ceramics International_, 50 (2024) 2373–2382.
+
+---
+
+### 2023
+
+-   Q. Qiu, J. Yuan, **G. Li**, Z.-z. Pan, P. Yao, Y. Zhao, C. Zhang, Y. Li,  
+    *An Efficient and Stable Lithium-Oxygen Battery Based on Metal-Organic Framework Separator Operating at 160 °C*,  
+    _Advanced Materials Technologies_, 8 (2023) 2300743.
+
+-   Y. Sang, Y. Ma, **G. Li**, K. Cui, M. Yang, H. Chen, Y. Li,  
+    *Enzymatic hydrolysis lignin dissolution and low temperature solvolysis in ethylene glycol*,  
+    _Chemical Engineering Journal_, 463 (2023) 142256.
+
+-   Z. You, **G. Li**, C. Wang, Q. Li, Y. Zheng,  
+    *The synergistic effect of potassium ions and nitrogen defects on carbon nitride for enhanced photocatalytic hydrogen evolution*,  
+    _International Journal of Hydrogen Energy_, 48 (2023) 15934–15943.
+
+-   J. Tian, **G. Li**, W. He, K.B. Tan, D. Sun, J. Wei, Q. Li,  
+    *Insight into the dynamic adsorption behavior of graphene oxide multichannel architecture toward contaminants*,  
+    _Chinese Journal of Chemical Engineering_, 53 (2023) 124–132.
+
+---
+
+### 2021
+
+-   **G. Li**, J. Huang, N. Wang, J. Huang, Y. Zheng, G. Zhan, Q. Li,  
+    *Carbon quantum dots functionalized g-C₃N₄ nanosheets as enhanced visible-light photocatalysts for water splitting*,  
+    _Diamond and Related Materials_, 116 (2021) 108242.
