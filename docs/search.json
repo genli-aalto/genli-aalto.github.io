@@ -1,10 +1,73 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "📝 Publications",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "2025\n\nGen Li, Yushuai Sang, Xiang Li, Hong Chen, Yongdan Li,\nSolvolysis of enzymatic hydrolysis lignin in fuel compatible solvents,\nChemical Engineering Science, 310 (2025) 121549.\nGen Li, Yushuai Sang, Xiang Li, Tiina Nypelö, Yongdan Li,\nMechanistic Elucidation of Guaiacol Hydrodeoxygenation over Ni₂P/SiO₂: Phenyl Species as Key Intermediates Revealed by Experiments and DFT calculations.\n(First author, manuscript in preparation)\nR. Zhao, G. Li, Y. Li, E. Jang, J.W. Bae,\nBa-modified ordered mesoporous SBA-15 for selective dehydration of lactic acid to acrylic acid,\nChemical Engineering Journal, 504 (2025) 158753.\nD. Zhu, J. Du, Z. Peng, J. Wang, X. He, G. Li, L. Ye, H. Ling, M. Zhao, H. Lin, D. Ji, W. Hu,\nMetal–Organic Frameworks Coordination-Oriented Polymer Dielectrics for Neuromorphic Vision Sensors,\nSmartMat, 6 (2025) e1322.\nTiantian Zhou, Feifan Zhang, Jiandong Gao, Kaiming Nie, Gen Li, Wanxin Huang, Ruiheng Wang, Guofeng Tian, Haifeng Ling, Hongzhen Lin, Yan Zhao, Hui Yang, Jiangtao Xu, Deyang Ji, Wenping Hu,\nHydrogen bonding networks for tunable organic neuromorphic transistor arrays and in-sensor computing,\nMatter, 2025, 102192.\n\n\n\n\n2024\n\nT. Han, Y. Xie, L. Li, Y. Wu, F. Yu, M. Wang, J. Zhang, G. Li, N. Yang,\nEnhanced electrochemical performance of direct carbon solid oxide fuel cells by MgO-catalyzed carbon gasification: Experimental and DFT simulation studies,\nCeramics International, 50 (2024) 16435–16442. (Corresponding author)\nL. Li, Y. Xie, T. Han, J. Zhang, F. Yu, G. Li, J. Sunarso, N. Yang, Y. Li,\nBaO-modified finger-like nickel-based anode for enhanced performance and durability of direct carbon solid oxide fuel cells,\nFuel, 368 (2024) 131656. (Corresponding author)\nY. Sang, G. Li, X. Li, H. Gong, M. Yang, D. Savary, Z. Fei, P.J. Dyson, H. Chen, Y. Li,\nA synergistic approach for lignin biofuel production: Integrating non-catalytic solvolysis with catalytic product upgrading,\nChemical Engineering Journal, 495 (2024) 153624.\nP. Yao, J. Zhang, Q. Qiu, G. Li, Y. Zhao, F. Yu, Y. Li,\nDesign of a perovskite oxide cathode for a protonic ceramic fuel cell,\nCeramics International, 50 (2024) 2373–2382.\n\n\n\n\n2023\n\nQ. Qiu, J. Yuan, G. Li, Z.-z. Pan, P. Yao, Y. Zhao, C. Zhang, Y. Li,\nAn Efficient and Stable Lithium-Oxygen Battery Based on Metal-Organic Framework Separator Operating at 160 °C,\nAdvanced Materials Technologies, 8 (2023) 2300743.\nY. Sang, Y. Ma, G. Li, K. Cui, M. Yang, H. Chen, Y. Li,\nEnzymatic hydrolysis lignin dissolution and low temperature solvolysis in ethylene glycol,\nChemical Engineering Journal, 463 (2023) 142256.\nZ. You, G. Li, C. Wang, Q. Li, Y. Zheng,\nThe synergistic effect of potassium ions and nitrogen defects on carbon nitride for enhanced photocatalytic hydrogen evolution,\nInternational Journal of Hydrogen Energy, 48 (2023) 15934–15943.\nJ. Tian, G. Li, W. He, K.B. Tan, D. Sun, J. Wei, Q. Li,\nInsight into the dynamic adsorption behavior of graphene oxide multichannel architecture toward contaminants,\nChinese Journal of Chemical Engineering, 53 (2023) 124–132.\n\n\n\n\n2021\n\nG. Li, J. Huang, N. Wang, J. Huang, Y. Zheng, G. Zhan, Q. Li,\nCarbon quantum dots functionalized g-C₃N₄ nanosheets as enhanced visible-light photocatalysts for water splitting,\nDiamond and Related Materials, 116 (2021) 108242."
+    "text": "Lignin is the most abundant renewable aromatic biopolymer. However, its complex structure poses challenges for valorization.\nMy research focuses on:\n\nSolvent system design: Developed mixed solvents system for room-temperature lignin dissolution, achieving up to 1 g/mL solubility.\nNon-catalytic solvolysis mechanisms: Investigated depolymerization pathways in various solvents using DFT and MD.\nMonomer yield enhancement: Elucidated the role of H-bond networks and solvent polarity in promoting guaiacol/catechol formation.\n\n📄 Related works:\nLi et al., Chemical Engineering Science, 2025\nSang, Li et al., Chemical Engineering Journal, 2024\nSang, Li et al., Chemical Engineering Journal, 2023"
+  },
+  {
+    "objectID": "research.html#biomass-solvolysis-and-lignin-valorization",
+    "href": "research.html#biomass-solvolysis-and-lignin-valorization",
+    "title": "Research",
+    "section": "",
+    "text": "Lignin is the most abundant renewable aromatic biopolymer. However, its complex structure poses challenges for valorization.\nMy research focuses on:\n\nSolvent system design: Developed mixed solvents system for room-temperature lignin dissolution, achieving up to 1 g/mL solubility.\nNon-catalytic solvolysis mechanisms: Investigated depolymerization pathways in various solvents using DFT and MD.\nMonomer yield enhancement: Elucidated the role of H-bond networks and solvent polarity in promoting guaiacol/catechol formation.\n\n📄 Related works:\nLi et al., Chemical Engineering Science, 2025\nSang, Li et al., Chemical Engineering Journal, 2024\nSang, Li et al., Chemical Engineering Journal, 2023"
+  },
+  {
+    "objectID": "research.html#catalytic-hydrodeoxygenation-hdo-of-phenolics",
+    "href": "research.html#catalytic-hydrodeoxygenation-hdo-of-phenolics",
+    "title": "Research",
+    "section": "⚗️ Catalytic Hydrodeoxygenation (HDO) of Phenolics",
+    "text": "⚗️ Catalytic Hydrodeoxygenation (HDO) of Phenolics\n\nLignin-derived phenols (e.g., guaiacol, phenol) must be deoxygenated to produce stable fuel-range molecules. I study:\n\nNi₂P/SiO₂ and Ni–Al catalysts for selective C–O cleavage without over-hydrogenation.\nDFT and metadynamics to map reaction pathways and free energy surfaces.\nPhenyl species identification as key intermediates bridging hydrogenolysis and ring saturation routes.\n\nHighlights:\n\nProposed 4 competing HDO routes and identified energetically favored ones.\nDemonstrated solvent effects and H₂ coverage influence on selectivity.\n\n📄 Related works:\nLi et al., To be submitted, 2025 (First author)\nLi et al., Chemical Engineering Journal, 2025"
+  },
+  {
+    "objectID": "research.html#solid-oxide-fuel-cells-sofcs-and-electrochemical-carbon-conversion",
+    "href": "research.html#solid-oxide-fuel-cells-sofcs-and-electrochemical-carbon-conversion",
+    "title": "Research",
+    "section": "🔥 Solid Oxide Fuel Cells (SOFCs) and Electrochemical Carbon Conversion",
+    "text": "🔥 Solid Oxide Fuel Cells (SOFCs) and Electrochemical Carbon Conversion\n\nIn collaboration, I participated in the development of carbon-based SOFCs with improved anode materials:\n\nMgO/BaO-modified Ni-based anodes: Enhanced carbon gasification and long-term stability.\nDFT simulations to evaluate oxygen adsorption, diffusion barriers, and surface oxygenation reactivity.\nExperimental validation: I-V curves, EIS, long-term fuel switching tests.\n\n📄 Related works:\nHan, Li et al., Ceramics International, 2024 (Co-corresponding)\nLi, Xie et al., Fuel, 2024 (Co-corresponding)"
+  },
+  {
+    "objectID": "research.html#energy-materials-and-functional-nanostructures",
+    "href": "research.html#energy-materials-and-functional-nanostructures",
+    "title": "Research",
+    "section": "⚛️ Energy Materials and Functional Nanostructures",
+    "text": "⚛️ Energy Materials and Functional Nanostructures\n\nMy early research explored energy conversion materials including:\n\nPhotocatalysts: g-C₃N₄ nanosheets doped with N/K or functionalized with CQDs for H₂ production.\nNeuromorphic systems: MOF-based dielectric polymer hybrids for artificial vision sensors.\nAdvanced batteries: MOF separators in Li–O₂ batteries with 160 °C operation stability.\n\n📄 Related works:\nLi et al., Diamond and Related Materials, 2021\nZhu, Li et al., SmartMat, 2025\nQiu, Li et al., Adv. Mater. Tech., 2023"
+  },
+  {
+    "objectID": "research.html#multiscale-modeling-from-qm-to-reactive-md",
+    "href": "research.html#multiscale-modeling-from-qm-to-reactive-md",
+    "title": "Research",
+    "section": "🧠 Multiscale Modeling: From QM to Reactive MD",
+    "text": "🧠 Multiscale Modeling: From QM to Reactive MD\n\nTheory and modeling are essential tools in my work. I utilize:\n\nDFT/VASP & CP2K + PLUMED: Reaction energy barriers, charge density difference, adsorption configurations.\nReactive MD (ReaxFF/GULP): Simulated lignin depolymerization and fragmentation in solvent box.\nEnhanced sampling (OPES): Free energy profiles for bond-breaking reactions and transition state location.\n\nTools used:\n→ VASP, CP2K, PLUMED, Materials Studio, GROMACS, ASE, Python/Plotly, GPAW"
+  },
+  {
+    "objectID": "research.html#current-focus-and-outlook",
+    "href": "research.html#current-focus-and-outlook",
+    "title": "Research",
+    "section": "📊 Current Focus and Outlook",
+    "text": "📊 Current Focus and Outlook\n\nUnifying experimental catalysis and computational reaction mechanisms\n\nDesigning green solvent systems for biomass upgrading\n\nExploring new catalytic interfaces and free-energy driven pathways\n\nPublishing open-source codes and workflows for high-throughput simulation\n\n🚧 Stay tuned for more in: electrocatalysis, Ni–Al bimetallic systems, and metadynamics applications."
+  },
+  {
+    "objectID": "index_zh.html",
+    "href": "index_zh.html",
+    "title": "你好，我是李根",
+    "section": "",
+    "text": "你好，我是李根\n等待更新~"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Gen Li",
+    "section": "",
+    "text": "Email: gen.li@aalto.fi\n\nAddress: Aalto University, Kemistintie 1, Espoo, FI-00076, Finland"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Gen Li",
+    "section": "",
+    "text": "Email: gen.li@aalto.fi\n\nAddress: Aalto University, Kemistintie 1, Espoo, FI-00076, Finland"
   },
   {
     "objectID": "index.html",
@@ -42,24 +105,10 @@
     "text": "2025.07 – upgarding"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Gen Li",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "📝 Publications",
     "section": "",
-    "text": "Email: gen.li@aalto.fi\n\nAddress: Aalto University, Kemistintie 1, Espoo, FI-00076, Finland"
-  },
-  {
-    "objectID": "contact.html#contact",
-    "href": "contact.html#contact",
-    "title": "Gen Li",
-    "section": "",
-    "text": "Email: gen.li@aalto.fi\n\nAddress: Aalto University, Kemistintie 1, Espoo, FI-00076, Finland"
-  },
-  {
-    "objectID": "index_zh.html",
-    "href": "index_zh.html",
-    "title": "你好，我是李根",
-    "section": "",
-    "text": "你好，我是李根\n等待更新~"
+    "text": "2025\n\nGen Li, Yushuai Sang, Xiang Li, Hong Chen, Yongdan Li,\nSolvolysis of enzymatic hydrolysis lignin in fuel compatible solvents,\nChemical Engineering Science, 310 (2025) 121549.\nGen Li, Yushuai Sang, Xiang Li, Tiina Nypelö, Yongdan Li,\nMechanistic Elucidation of Guaiacol Hydrodeoxygenation over Ni₂P/SiO₂: Phenyl Species as Key Intermediates Revealed by Experiments and DFT calculations.\n(First author, manuscript in preparation)\nR. Zhao, G. Li, Y. Li, E. Jang, J.W. Bae,\nBa-modified ordered mesoporous SBA-15 for selective dehydration of lactic acid to acrylic acid,\nChemical Engineering Journal, 504 (2025) 158753.\nD. Zhu, J. Du, Z. Peng, J. Wang, X. He, G. Li, L. Ye, H. Ling, M. Zhao, H. Lin, D. Ji, W. Hu,\nMetal–Organic Frameworks Coordination-Oriented Polymer Dielectrics for Neuromorphic Vision Sensors,\nSmartMat, 6 (2025) e1322.\nTiantian Zhou, Feifan Zhang, Jiandong Gao, Kaiming Nie, Gen Li, Wanxin Huang, Ruiheng Wang, Guofeng Tian, Haifeng Ling, Hongzhen Lin, Yan Zhao, Hui Yang, Jiangtao Xu, Deyang Ji, Wenping Hu,\nHydrogen bonding networks for tunable organic neuromorphic transistor arrays and in-sensor computing,\nMatter, 2025, 102192.\n\n\n\n\n2024\n\nT. Han, Y. Xie, L. Li, Y. Wu, F. Yu, M. Wang, J. Zhang, G. Li, N. Yang,\nEnhanced electrochemical performance of direct carbon solid oxide fuel cells by MgO-catalyzed carbon gasification: Experimental and DFT simulation studies,\nCeramics International, 50 (2024) 16435–16442. (Corresponding author)\nL. Li, Y. Xie, T. Han, J. Zhang, F. Yu, G. Li, J. Sunarso, N. Yang, Y. Li,\nBaO-modified finger-like nickel-based anode for enhanced performance and durability of direct carbon solid oxide fuel cells,\nFuel, 368 (2024) 131656. (Corresponding author)\nY. Sang, G. Li, X. Li, H. Gong, M. Yang, D. Savary, Z. Fei, P.J. Dyson, H. Chen, Y. Li,\nA synergistic approach for lignin biofuel production: Integrating non-catalytic solvolysis with catalytic product upgrading,\nChemical Engineering Journal, 495 (2024) 153624.\nP. Yao, J. Zhang, Q. Qiu, G. Li, Y. Zhao, F. Yu, Y. Li,\nDesign of a perovskite oxide cathode for a protonic ceramic fuel cell,\nCeramics International, 50 (2024) 2373–2382.\n\n\n\n\n2023\n\nQ. Qiu, J. Yuan, G. Li, Z.-z. Pan, P. Yao, Y. Zhao, C. Zhang, Y. Li,\nAn Efficient and Stable Lithium-Oxygen Battery Based on Metal-Organic Framework Separator Operating at 160 °C,\nAdvanced Materials Technologies, 8 (2023) 2300743.\nY. Sang, Y. Ma, G. Li, K. Cui, M. Yang, H. Chen, Y. Li,\nEnzymatic hydrolysis lignin dissolution and low temperature solvolysis in ethylene glycol,\nChemical Engineering Journal, 463 (2023) 142256.\nZ. You, G. Li, C. Wang, Q. Li, Y. Zheng,\nThe synergistic effect of potassium ions and nitrogen defects on carbon nitride for enhanced photocatalytic hydrogen evolution,\nInternational Journal of Hydrogen Energy, 48 (2023) 15934–15943.\nJ. Tian, G. Li, W. He, K.B. Tan, D. Sun, J. Wei, Q. Li,\nInsight into the dynamic adsorption behavior of graphene oxide multichannel architecture toward contaminants,\nChinese Journal of Chemical Engineering, 53 (2023) 124–132.\n\n\n\n\n2021\n\nG. Li, J. Huang, N. Wang, J. Huang, Y. Zheng, G. Zhan, Q. Li,\nCarbon quantum dots functionalized g-C₃N₄ nanosheets as enhanced visible-light photocatalysts for water splitting,\nDiamond and Related Materials, 116 (2021) 108242."
   }
 ]

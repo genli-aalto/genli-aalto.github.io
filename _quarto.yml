@@ -10,6 +10,8 @@ website:
         file: index.qmd
       - text: Publications
         file: publications.qmd
+      - text: Research
+        file: research.qmd
       - text: Contact
         file: contact.qmd
       - text: 中文

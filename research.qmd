@@ -1,0 +1,107 @@
+---
+title: "Research"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: right
+---
+
+## 🌱 Biomass Solvolysis and Lignin Valorization
+
+![](images/lignin-solvolysis.jpg){width=300px}
+
+Lignin is the most abundant renewable aromatic biopolymer. However, its complex structure poses challenges for valorization.  
+My research focuses on:
+
+- **Solvent system design**: Developed mixed solvents system for room-temperature lignin dissolution, achieving up to 1 g/mL solubility.
+- **Non-catalytic solvolysis mechanisms**: Investigated depolymerization pathways in various solvents using DFT and MD.
+- **Monomer yield enhancement**: Elucidated the role of H-bond networks and solvent polarity in promoting guaiacol/catechol formation.
+
+📄 *Related works*:  
+Li et al., *Chemical Engineering Science*, 2025  
+Sang, Li et al., *Chemical Engineering Journal*, 2024  
+Sang, Li et al., *Chemical Engineering Journal*, 2023  
+
+---
+
+## ⚗️ Catalytic Hydrodeoxygenation (HDO) of Phenolics
+
+![](images/hdo-catalysis.png){width=300px}
+
+Lignin-derived phenols (e.g., guaiacol, phenol) must be deoxygenated to produce stable fuel-range molecules. I study:
+
+- **Ni₂P/SiO₂ and Ni–Al catalysts** for selective C–O cleavage without over-hydrogenation.
+- **DFT and metadynamics** to map reaction pathways and free energy surfaces.
+- **Phenyl species identification** as key intermediates bridging hydrogenolysis and ring saturation routes.
+
+Highlights:
+
+- Proposed 4 competing HDO routes and identified energetically favored ones.
+- Demonstrated solvent effects and H₂ coverage influence on selectivity.
+
+📄 *Related works*:  
+Li et al., *To be submitted*, 2025 (First author)  
+Li et al., *Chemical Engineering Journal*, 2025  
+
+---
+
+## 🔥 Solid Oxide Fuel Cells (SOFCs) and Electrochemical Carbon Conversion
+
+![](images/sofc-scheme.jpg){width=300px}
+
+In collaboration, I participated in the development of carbon-based SOFCs with improved anode materials:
+
+- **MgO/BaO-modified Ni-based anodes**: Enhanced carbon gasification and long-term stability.
+- **DFT simulations** to evaluate oxygen adsorption, diffusion barriers, and surface oxygenation reactivity.
+- **Experimental validation**: I-V curves, EIS, long-term fuel switching tests.
+
+📄 *Related works*:  
+Han, Li et al., *Ceramics International*, 2024 (Co-corresponding)  
+Li, Xie et al., *Fuel*, 2024 (Co-corresponding)  
+
+---
+
+## ⚛️ Energy Materials and Functional Nanostructures
+
+![](images/photocatalyst.jpg){width=300px}
+
+My early research explored energy conversion materials including:
+
+- **Photocatalysts**: g-C₃N₄ nanosheets doped with N/K or functionalized with CQDs for H₂ production.
+- **Neuromorphic systems**: MOF-based dielectric polymer hybrids for artificial vision sensors.
+- **Advanced batteries**: MOF separators in Li–O₂ batteries with 160 °C operation stability.
+
+📄 *Related works*:  
+Li et al., *Diamond and Related Materials*, 2021  
+Zhu, Li et al., *SmartMat*, 2025  
+Qiu, Li et al., *Adv. Mater. Tech.*, 2023  
+
+---
+
+## 🧠 Multiscale Modeling: From QM to Reactive MD
+
+![](images/simulation.png){width=300px}
+
+Theory and modeling are essential tools in my work. I utilize:
+
+- **DFT/VASP & CP2K + PLUMED**: Reaction energy barriers, charge density difference, adsorption configurations.
+- **Reactive MD (ReaxFF/GULP)**: Simulated lignin depolymerization and fragmentation in solvent box.
+- **Enhanced sampling (OPES)**: Free energy profiles for bond-breaking reactions and transition state location.
+
+Tools used:  
+→ VASP, CP2K, PLUMED, Materials Studio, GROMACS, ASE, Python/Plotly, GPAW
+
+---
+
+## 📊 Current Focus and Outlook
+
+- Unifying **experimental catalysis and computational reaction mechanisms**  
+- Designing **green solvent systems** for biomass upgrading  
+- Exploring **new catalytic interfaces and free-energy driven pathways**  
+- Publishing open-source codes and workflows for high-throughput simulation  
+
+🚧 *Stay tuned for more in: electrocatalysis, Ni–Al bimetallic systems, and metadynamics applications.*
+
+---
+
